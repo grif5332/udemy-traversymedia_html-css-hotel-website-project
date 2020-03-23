@@ -4,7 +4,7 @@ This project is called "Hotel Website" from Traversy Media's Udemy course called
 
 ## Topics Learned:
 > Basic HTML <br>
->> Paragraphs, divs, <br>
+    sdfasdf
 > Basic CSS
 
 
