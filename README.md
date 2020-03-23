@@ -6,4 +6,7 @@ This project is called **Hotel Website** from **Traversy Media's** Udemy course 
 * Basic HTML
 * Basic CSS
 
+## Other Information:
+* All images on the project website were provided by the course author.
+
 
